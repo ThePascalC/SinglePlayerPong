@@ -1,3 +1,7 @@
+/*
+      Author: Nicholas Cain
+      Description: Single Player Pong created with canvas and vanilla JavaScript. Use the left and right arrow keys to move the paddle. 
+*/
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 var ballRadius = 10;
